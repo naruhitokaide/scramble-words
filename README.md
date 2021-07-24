@@ -1,2 +1,2 @@
 # scramble-words
-Simple Python Program for Scramble words
+Simple Python Program for Scramble Words Game
